@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @haneenElashouty 
-- I'm an Android developer and UI/UX designer who enjoys turning ideas into reality. with public speaking experience. GDSC AIET leader in (2021/2022). WTM ambassador.
-- love to simplify technology for others. always have the passion to discover and learn new things.
-- Pet lovers especially birds also love blue butterflies because they symbolize a person's essence or soul. 
-- 👀 I’m interested in android development , UI/UX design
-- 🌱 I’m currently learning firebase,UI/UX design
+👋 Hi, I’m Haneen Elashouty | UX/UI Engineer
+
+I live at the intersection of Human-Centered Design and Android Engineering. My goal is to ensure that the "essence" of an idea (represented by the blue butterflies I love 🦋) is never lost in translation between the mockup and the code.
+
+📱 The Android Pillar: Building robust, accessible apps with Kotlin, Jetpack Compose, and Android Studio.
+
+🎨 The UX Pillar: Crafting intuitive user journeys, accessibility-focused interfaces, and design systems.
+
+🛠️ The Skills In-Between: Bridging the gap with Unity (AR/Game Dev), HTML/CSS/JS, and Blender for 3D logic.
+
+WTM Ambassador |
